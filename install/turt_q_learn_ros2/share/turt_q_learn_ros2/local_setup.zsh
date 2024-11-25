@@ -1,1 +1,0 @@
-/home/ariel/Documents/Final_Project/build/turt_q_learn_ros2/ament_cmake_environment_hooks/local_setup.zsh

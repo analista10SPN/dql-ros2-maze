@@ -1,3 +1,0 @@
-source;share/turt_q_learn_ros2/environment/ament_prefix_path.sh
-source;share/turt_q_learn_ros2/environment/path.sh
-source;share/turt_q_learn_ros2/environment/pythonpath.sh

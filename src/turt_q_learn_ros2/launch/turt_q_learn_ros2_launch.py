@@ -24,7 +24,7 @@ def generate_launch_description():
         Node(
             package='gazebo_ros',
             executable='spawn_entity.py',
-            arguments=['-file', sdf_model_file, '-sdf', '-entity', 'brick_model'],
+            arguments=['-file', sdf_model_file, '-entity', 'brick_model'],
             output='screen'
         ),
         # Launch your custom pathfinder node

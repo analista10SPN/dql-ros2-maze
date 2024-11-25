@@ -1,8 +1,0 @@
-setup.py
-turt_q_learn_ros2/__init__.py
-turt_q_learn_ros2/pathfinder.py
-turt_q_learn_ros2/turt_q_learn_hypers.py
-turt_q_learn_ros2.egg-info/PKG-INFO
-turt_q_learn_ros2.egg-info/SOURCES.txt
-turt_q_learn_ros2.egg-info/dependency_links.txt
-turt_q_learn_ros2.egg-info/top_level.txt
